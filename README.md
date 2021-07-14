@@ -68,4 +68,4 @@ You're done.
 
 # If you have the Anbernic rg351P/M, use this instead.
 
-# https://github.com/merrychrishna/mupen64plusStandalone351p351elec/blob/main/README.md
+# https://github.com/merrychrishna/mupen64plusStandalone351p351elec
