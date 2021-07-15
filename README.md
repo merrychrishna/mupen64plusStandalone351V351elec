@@ -19,7 +19,7 @@ I have only tested this hacked port on the rg351p.
 
 
 
-INSTALLATION INSTRUCTIONS
+# INSTALLATION INSTRUCTIONS
 
 On Windows,
 Extract the ```mupen64plusIPORTEDfromArkOSrg351V.zip``` on your PC.
@@ -64,3 +64,7 @@ Run the installer by typing this.
 Now all you have to do is restart Emulationstation and Mupen64plus stand alone Rice and Glide will show up in your emulator list. 
 
 You're done.
+
+# If you have the Anbernic RG351V, use this instead:
+
+# https://github.com/merrychrishna/mupen64plusStandalone351p351elec/tree/merrychrishna-patch-2
