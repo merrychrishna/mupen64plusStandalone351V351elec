@@ -65,6 +65,6 @@ Now all you have to do is restart Emulationstation and Mupen64plus stand alone R
 
 You're done.
 
-# If you have the Anbernic RG351V, use this instead:
+# If you have the Anbernic RG351P/M, use this instead:
 
 # https://github.com/merrychrishna/mupen64plusStandalone351p351elec/tree/merrychrishna-patch-2
