@@ -26,6 +26,7 @@ Extract the ```mupen64plusIPORTEDfromArkOSrg351V.zip``` on your PC.
 
 Then log into your 351v on 351elec with sftp using something like winscp (be sure to enable show hidden files in winscp, just encase)
 connect to the same wifi on both your PC and anbernic 351v.
+
 Input your IP address of your anbernic 351v into winscp.
 
 login info:
